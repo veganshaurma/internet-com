@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- Russian pages -->
+  <url>
+    <loc>https://inter-com.online/</loc>
+    <lastmod>2024-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://inter-com.online/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inter-com.online/en/"/>
+  </url>
+  <url>
+    <loc>https://inter-com.online/about/</loc>
+    <lastmod>2024-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://inter-com.online/about/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inter-com.online/en/about/"/>
+  </url>
+  <url>
+    <loc>https://inter-com.online/services/</loc>
+    <lastmod>2024-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://inter-com.online/services/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inter-com.online/en/services/"/>
+  </url>
+  <url>
+    <loc>https://inter-com.online/career/</loc>
+    <lastmod>2024-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://inter-com.online/career/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inter-com.online/en/career/"/>
+  </url>
+  <url>
+    <loc>https://inter-com.online/contacts/</loc>
+    <lastmod>2024-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://inter-com.online/contacts/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inter-com.online/en/contacts/"/>
+  </url>
+  <url>
+    <loc>https://inter-com.online/privacy/</loc>
+    <lastmod>2024-01-01</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://inter-com.online/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inter-com.online/en/privacy/"/>
+  </url>
+  <url>
+    <loc>https://inter-com.online/consent/</loc>
+    <lastmod>2024-01-01</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://inter-com.online/consent/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inter-com.online/en/consent/"/>
+  </url>
+  <url>
+    <loc>https://inter-com.online/terms/</loc>
+    <lastmod>2024-01-01</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://inter-com.online/terms/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inter-com.online/en/terms/"/>
+  </url>
+
+  <!-- English pages -->
+  <url>
+    <loc>https://inter-com.online/en/</loc>
+    <lastmod>2024-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inter-com.online/en/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://inter-com.online/"/>
+  </url>
+  <url>
+    <loc>https://inter-com.online/en/about/</loc>
+    <lastmod>2024-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inter-com.online/en/about/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://inter-com.online/about/"/>
+  </url>
+  <url>
+    <loc>https://inter-com.online/en/services/</loc>
+    <lastmod>2024-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inter-com.online/en/services/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://inter-com.online/services/"/>
+  </url>
+  <url>
+    <loc>https://inter-com.online/en/career/</loc>
+    <lastmod>2024-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inter-com.online/en/career/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://inter-com.online/career/"/>
+  </url>
+  <url>
+    <loc>https://inter-com.online/en/contacts/</loc>
+    <lastmod>2024-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inter-com.online/en/contacts/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://inter-com.online/contacts/"/>
+  </url>
+  <url>
+    <loc>https://inter-com.online/en/privacy/</loc>
+    <lastmod>2024-01-01</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inter-com.online/en/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://inter-com.online/privacy/"/>
+  </url>
+  <url>
+    <loc>https://inter-com.online/en/consent/</loc>
+    <lastmod>2024-01-01</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inter-com.online/en/consent/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://inter-com.online/consent/"/>
+  </url>
+  <url>
+    <loc>https://inter-com.online/en/terms/</loc>
+    <lastmod>2024-01-01</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inter-com.online/en/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://inter-com.online/terms/"/>
+  </url>
+
+</urlset>
