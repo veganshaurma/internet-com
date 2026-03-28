@@ -1346,6 +1346,48 @@ section {
 
 .page-header .text-lead { max-width: 600px; }
 
+/* Page header with photo background */
+.page-header--photo {
+  position: relative;
+  overflow: hidden;
+  border-bottom: none;
+}
+
+.page-header-bg {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+}
+
+.page-header-bg img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  display: block;
+}
+
+.page-header-bg::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to right, rgba(10,20,15,0.72) 0%, rgba(10,20,15,0.55) 55%, rgba(10,20,15,0.35) 100%);
+}
+
+.page-header--photo .container {
+  position: relative;
+  z-index: 1;
+}
+
+.page-header--photo h1,
+.page-header--photo .text-lead {
+  color: #ffffff;
+}
+
+.page-header--photo .section-label {
+  color: rgba(255,255,255,0.75);
+}
+
 /* ── About specific ──────────────────────────────────────── */
 .about-lead-grid {
   display: grid;
